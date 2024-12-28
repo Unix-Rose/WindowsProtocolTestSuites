@@ -51,7 +51,7 @@
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "nan": "^2.15.0",
-    "react-devtools": "^4.27.4",    
+    "react-devtools": "^6.0.1",    
     "react-scripts": "5.0.1",
     "prettier": "2.2.1"
   },
